@@ -1,9 +1,11 @@
 This project focuses on preparing NorthPoint Retail data using Power BI. The main objective is to clean, transform, and organize data for accurate sales analysis and business decision-making.
+
 2. Tools Used
 •	Power BI Desktop: Used to prepare and model the data.
 •	Power Query Editor: Used for data cleaning and transformation.
 •	Model View: Used to create relationships between tables.
-3. Data Cleaning and Transformation
+
+4. Data Cleaning and Transformation
 - Data Import: Imported sales, product, customer, store, salesperson, returns, targets, exchange rates, and calendar data into Power BI.
 - Combine Files: Combined 24 monthly sales CSV files using the Folder connector to create one sales table.
 - Data Profiling: Checked column quality, distribution, errors, and missing values to understand the condition of the data.
